@@ -18,3 +18,4 @@ Publish
 /App_Data
 /secrets
 /data
+.secrets
